@@ -3,7 +3,7 @@
 
 ## K8s files and Apps 
 
-https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git
+https://github.com/kimkevin90/argocd_app_test.git
 
 - 0-Demo_Files/Demo_ConfigMap
 - 0-Demo_Files/Demo_Deployment

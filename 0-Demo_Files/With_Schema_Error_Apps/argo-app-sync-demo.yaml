@@ -10,7 +10,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: 0-Demo_Files/With_Schema_Error
-    repoURL: 'https://github.com/SMACAcademy/ArgoCD-Complete-Master-Course.git'
+    repoURL: 'https://github.com/kimkevin90/argocd_app_test.git'
     targetRevision: HEAD
   sources: []
   project: default
